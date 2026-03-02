@@ -1,0 +1,5 @@
+.DS_Store
+*.pptx
+*.xlsx
+old/
+rezerwacje.txt
