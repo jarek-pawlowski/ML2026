@@ -1,3 +1,3 @@
-### Notes for Introduction to Machine Learning course
+## Notes for *Introduction to Machine Learning* course
 
-[jarek-pawlowski.github.io/MLphys](https://jarek-pawlowski.github.io/ML2026)
+[jarek-pawlowski.github.io/ML2026](https://jarek-pawlowski.github.io/ML2026)
