@@ -4,6 +4,7 @@
 ## Lecture notes:
 - [machine learning fundamentals](https://drive.google.com/file/d/1Fxew6vX9__uNMHkwrYuJ0J2HT4bOB9M-/view?usp=sharing)
 - [deep neural networks](https://drive.google.com/file/d/1Ootio_U2jgI0WlvemMi5PUrpAngcUNG1/view?usp=sharing)
+- [convolutional neural networks](https://drive.google.com/file/d/1l2hkZFQLn8CpUcl6ElY0ngzZK5WcRrHQ/view?usp=sharing)
 
 ## Laboratory classes:
 
